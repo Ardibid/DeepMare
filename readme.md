@@ -7,10 +7,14 @@ This is my final project for 15-112 course at CMU School of Computer Science. It
 
 (At the time, Windows was not supported by Tensorflow and VR was not supported on MacOS)<br>
 
-This project uses Neural Style by Anish Athalye for style transfer of a panoramic images. Then it uses a 360-degree image viewer with accompanying UI implemented in Unity to view the images in VR.
+This project uses Neural Style by Anish Athalye to apply Style Transfer of a panoramic images. Then it uses a 360-degree image viewer inspired by PhotosphereViewer, with UI implemented in Unity to view the images in VR.
 
 ## Demo: <br>
 Here is a demo of the porject: <br>
 [![DeepMare](https://img.youtube.com/vi/grBhgk0tifw/0.jpg)](https://www.youtube.com/watch?v=grBhgk0tifw)
 
-
+## References:
+Neural Style: <br>
+https://github.com/anishathalye/neural-style <br>
+PhotosphereViewer: <br>
+https://github.com/UoA-eResearch/PhotosphereViewer
