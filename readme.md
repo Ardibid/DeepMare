@@ -2,6 +2,7 @@
 
 ## VR Experience with Style Transfer <br>
 This is my final project for 15-112 course at CMU School of Computer Science. It was awarded the best project prize for Fall 2016. <br>
+this project was developed before Tnsorflow became available for Windows and before any VR support for MacOSX.
 
 ### Architecture:<br>
 ![deepmare-01_small](https://user-images.githubusercontent.com/21223496/36046831-4bed7804-0da8-11e8-9a0d-dcb111caba63.png)
